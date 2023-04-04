@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**joordonezo/joordonezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/joordonezo/joordonezo/blob/main/header.png?raw=true" alt="Header" />
+</p>
+Acerca de mí
+Soy Jorge Luis, Soy emprendedor e ingeniero desarrollador de software full-stack, me apasiona la tecnología, crear y mantener es mi credo. Me encanta la programación y estoy constantemente aprendiendo cosas nuevas.
 
-Here are some ideas to get you started:
+Lenguajes y tecnologías
+Aquí están los lenguajes y tecnologías que domino y con los que he trabajado:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github.com/joordonezo/joordonezo/blob/main/tech-stack.png?raw=true" alt="Tecnologías" />
+</p>
+Mis proyectos
+En este repositorio podrás encontrar algunos de mis proyectos. Aquí te dejo una lista de ellos:
+
+[e-SPPB_survey](https://github.com/joordonezo/e-SPPB_survey): encuesta médica en angular
+[pro_chorizasos](https://github.com/joordonezo/pro_chorizasos): gestión de empresa carnicos
+[translate](https://github.com/joordonezo-other-project/translate): traductor especial para internacionalización i18n
+Contacto
+Si quieres contactarme, puedes hacerlo a través de [linkedin](https://www.linkedin.com/in/jorge-luis-ordo%C3%B1ez-ospina-907201161/).
+
+¡Gracias por visitar mi sitio de GitHub!
