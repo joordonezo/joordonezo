@@ -1,12 +1,11 @@
-### Hi there 👋
-
+### ¡Hola! 👋
 <p align="center">
   <img src="https://github.com/joordonezo/joordonezo/blob/main/DALL·E%202023-04-03%2022.30.26%20-%20imagen%20de%20perfil%20de%20assassins%20creed%20unido%20con%20el%20de%20nodejs.png?raw=true" alt="Header" width="100px"/>
 </p>
-Acerca de mí
-Soy Jorge Luis, Soy emprendedor e ingeniero desarrollador de software full-stack, me apasiona la tecnología, crear y mantener es mi credo. Me encanta la programación y estoy constantemente aprendiendo cosas nuevas.
+About Me / Acerca de mí
+Soy Jorge Luis, un emprendedor e ingeniero desarrollador de software full-stack. Me apasiona la tecnología y mi credo es crear y mantener. Me encanta la programación y estoy constantemente aprendiendo cosas nuevas.
 
-Lenguajes y tecnologías
+### Languages and Technologies / Lenguajes y Tecnologías
 Aquí están los lenguajes y tecnologías que domino y con los que he trabajado:
 
 <p align="center">
@@ -16,7 +15,7 @@ Aquí están los lenguajes y tecnologías que domino y con los que he trabajado:
   <img src="https://github.com/joordonezo/joordonezo/blob/main/LAMP.webp" alt="LAMP" width="50px"/>
 </p>
 
-### Mis proyectos
+### My Projects / Mis proyectos
 
 En este repositorio podrás encontrar algunos de mis proyectos. Aquí te dejo una lista de ellos:
 
@@ -26,8 +25,8 @@ En este repositorio podrás encontrar algunos de mis proyectos. Aquí te dejo un
 
 [translate](https://github.com/joordonezo-other-project/translate): traductor especial para internacionalización i18n
 
-### Contacto
-Si quieres contactarme, puedes hacerlo a través de [linkedin](https://www.linkedin.com/in/jorge-luis-ordo%C3%B1ez-ospina-907201161/).
+### Contact / Contacto
+Si quieres contactarme, puedes hacerlo a través de LinkedIn.
 
 ¡Gracias por visitar mi sitio de GitHub!
-🔭🌱👯🤔💬📫😄⚡ 
+🔭🌱👯🤔💬📫😄⚡
