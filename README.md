@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 <p align="center">
-  <img src="https://github.com/joordonezo/joordonezo/blob/main/DALL·E%202023-04-03%2022.30.26%20-%20imagen%20de%20perfil%20de%20assassins%20creed%20unido%20con%20el%20de%20nodejs.png?raw=true" alt="Header" width="100px"/>
+  <img src="https://github.com/joordonezo/joordonezo/blob/main/assasin's%20creed%20IA%208.jfif?raw=true" alt="Header" width="100px"/>
 </p>
 About Me / Acerca de mí
 Soy Jorge Luis, un emprendedor e ingeniero desarrollador de software full-stack. Me apasiona la tecnología y mi credo es crear y mantener. Me encanta la programación y estoy constantemente aprendiendo cosas nuevas.
